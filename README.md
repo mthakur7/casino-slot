@@ -1,3 +1,3 @@
-# casino-slot
+### casino-slot
+Link: https://mthakur7.github.io/casino-slot/
 
-Live Demo: https://mthakur7.github.io/casino-slot/
